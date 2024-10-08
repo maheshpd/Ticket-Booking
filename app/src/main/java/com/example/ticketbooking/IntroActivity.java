@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.ticketbooking.databinding.ActivityIntroBinding;
 
-public class IntroActivity extends AppCompatActivity {
+public class IntroActivity extends BaseActivity {
     private ActivityIntroBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
